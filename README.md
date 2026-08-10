@@ -2,74 +2,39 @@
 
 ### *I'm interested in what technology can become when you stop using it just as it was designed.*
 
-I'm a Computer Engineering graduate interested in **Artificial Intelligence, software development and building things that turn ideas into something real.**
+Computer Engineering graduate based in Alicante, Spain, with a strong interest in **Artificial Intelligence, software development and technology-driven projects**.
 
 ---
 
-## 🧠 What I'm exploring
+### 🧠 Focus
 
-I'm particularly interested in **Artificial Intelligence** and the ways it can be applied to make technology more useful, efficient and accessible.
-
-I also enjoy learning through projects — taking an idea, figuring out how to build it, and seeing where it can go.
-
----
-
-## 🚀 Featured Projects
-
-### 🎮 Final Degree Project — AI & Unreal Engine 5
-
-An individual project developed with **Unreal Engine 5**, incorporating Artificial Intelligence and voice interaction as part of the experience.
-
-**Tech:**  
-`Unreal Engine 5` `Blueprints` `Artificial Intelligence` `Voice Interaction`
-
-[→ View project](#)
-
----
-
-### 💻 University Project
-
-A university project focused on software development and practical problem solving.
-
-**Tech:**  
-`Java` `GitHub` `SQL`
-
-[→ View project](#)
-
----
-
-### 💻 University Project
-
-Another project developed during my Computer Engineering degree, focused on building and working with software in a team environment.
-
-**Tech:**  
-`Python` `JavaScript` `GitHub`
-
-[→ View project](#)
+| 🤖 Artificial Intelligence | 💻 Software Development | 🚀 Projects |
+|:---:|:---:|:---:|
+| Exploring practical applications of AI | Building and understanding software | Learning through real projects |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
 </p>
 
-### Data
+### 🗄️ Data
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,firebase,supabase" />
 </p>
 
-### Tools
+### 🔧 Tools & Workflow
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,jira" />
 </p>
 
-### Other
+### 🎮 Other
 
 <p>
   <img src="https://skillicons.dev/icons?i=unreal" />
@@ -77,21 +42,39 @@ Another project developed during my Computer Engineering degree, focused on buil
 
 ---
 
-## 📊 GitHub
+## 🎮 Featured Project
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=000000&text_color=333333&icon_color=000000" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=000000&text_color=333333" height="165"/>
-</p>
+### Final Degree Project · AI × Unreal Engine 5
+
+An individual project developed from scratch with **Unreal Engine 5**, exploring the use of **Artificial Intelligence and voice interaction** within an interactive experience.
+
+`Unreal Engine 5` · `Blueprints` · `Artificial Intelligence` · `Voice Interaction`
+
+---
+
+## 📚 Background
+
+🎓 **Computer Engineering**  
+Universidad de Alicante
+
+💼 **NTT DATA**  
+Appian · Real project for ADIF
 
 ---
 
 ## 📫 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Always learning. Always building.</i>
+  <sub>Building with curiosity.</sub>
 </p>
