@@ -6,39 +6,24 @@ Computer Engineering graduate from the **University of Alicante**, interested in
 
 <br>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 Focus
-
-🤖 **Artificial Intelligence**  
-Exploring practical applications of AI.
-
-💻 **Software Development**  
-Building and understanding software through projects.
-
-🚀 **Technology**  
-Learning by turning ideas into something real.
-
-</td>
-
-<td width="50%">
-
-### 🎯 Currently
-
-🎓 Computer Engineering graduate  
-📍 Alicante, Spain  
-🔎 Looking for my first professional opportunity  
-💡 Interested in AI & emerging technologies
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+## 🧠 Interests
+
+🤖 **Artificial Intelligence** · 💻 **Software Development** · 🚀 **Technology & Projects**
+
+---
+
+## 🛠️ Tech Stack
 
 <table>
 <tr>
@@ -50,15 +35,21 @@ Learning by turning ideas into something real.
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
 </p>
 
+<p>
+<img src="https://skillicons.dev/icons?i=cs,go" />
+</p>
+
 </td>
 
 <td width="50%" valign="top">
 
-### 🗄️ Databases & Backend
+### 🗄️ Data & Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgresql,firebase,supabase" />
 </p>
+
+`SQL` · `PostgreSQL` · `Firebase` · `Supabase`
 
 </td>
 </tr>
@@ -72,21 +63,25 @@ Learning by turning ideas into something real.
 <img src="https://skillicons.dev/icons?i=git,github,jira" />
 </p>
 
+`Git` · `GitHub` · `Jira` · `Scrum`
+
 </td>
 
 <td width="50%" valign="top">
 
-### 🎮 Frameworks & Platforms
+### ⚙️ Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=unreal" />
 </p>
 
+`Unreal Engine 5` · `Appian` · `Ionic`
+
 </td>
 </tr>
 </table>
 
-<br>
+---
 
 ### ⚡ Technologies I've worked with
 
@@ -101,70 +96,36 @@ Learning by turning ideas into something real.
 
 <br>
 
+<img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=white"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-111111?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scrum-111111?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unreal%20Engine-111111?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Appian-111111?style=for-the-badge&logoColor=white"/>
 
 </p>
 
 ---
 
-# 🎮 Featured Project
+### 🎮 Final Degree Project
 
-<table>
-<tr>
+**AI × Unreal Engine 5**
 
-<td width="60%" valign="middle">
+Individual project developed with **Unreal Engine 5**, incorporating Artificial Intelligence and voice interaction into an interactive experience.
 
-## AI × Unreal Engine 5
-
-**Final Degree Project**
-
-An individual project developed with **Unreal Engine 5**, exploring the use of **Artificial Intelligence and voice interaction** within an interactive experience.
-
-**Built with**
-
-`Unreal Engine 5` · `Blueprints` · `AI` · `Voice Interaction`
-
-</td>
-
-<td width="40%" align="center">
-
-🎮  
-**AI-powered interactive experience**
-
-</td>
-
-</tr>
-</table>
+`Unreal Engine 5` · `Blueprints` · `Artificial Intelligence` · `Voice Interaction`
 
 ---
 
-# 📫 Let's connect
-
 <p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-<br>
-
-<p align="center">
-<i>Curious about what technology can become.</i>
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
