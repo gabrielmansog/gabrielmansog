@@ -12,34 +12,34 @@ Computer Engineering graduate from the **University of Alicante**, interested in
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python" height="60" />
-<img src="https://skillicons.dev/icons?i=java" height="60" />
-<img src="https://skillicons.dev/icons?i=cpp" height="60" />
-<img src="https://skillicons.dev/icons?i=js" height="60" />
-<img src="https://skillicons.dev/icons?i=html" height="60" />
-<img src="https://skillicons.dev/icons?i=css" height="60" />
-<img src="https://skillicons.dev/icons?i=cs" height="60" />
-<img src="https://skillicons.dev/icons?i=go" height="60" />
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
+![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=239120)
+![Go](https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=00ADD8)
 
 ### 🗄️ Data & Databases
 
-<img src="https://skillicons.dev/icons?i=postgresql" height="60" />
-<img src="https://skillicons.dev/icons?i=firebase" height="60" />
-<img src="https://skillicons.dev/icons?i=supabase" height="60" />
-<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" height="40" />
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
 ### 🔧 Tools & Workflow
 
-<img src="https://skillicons.dev/icons?i=git" height="60" />
-<img src="https://skillicons.dev/icons?i=github" height="60" />
-<img src="https://skillicons.dev/icons?i=jira" height="60" />
-<img src="https://img.shields.io/badge/Scrum-111111?style=for-the-badge&logo=scrumalliance&logoColor=009FDA" height="40" />
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-111111?style=for-the-badge&logo=jira&logoColor=2684FF)
+![Scrum](https://img.shields.io/badge/Scrum-111111?style=for-the-badge&logo=scrumalliance&logoColor=009FDA)
 
 ### ⚙️ Technologies
 
-<img src="https://skillicons.dev/icons?i=unreal" height="60" />
-<img src="https://skillicons.dev/icons?i=ionic" height="60" />
-<img src="https://img.shields.io/badge/Appian-111111?style=for-the-badge" height="40" />
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-111111?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-111111?style=for-the-badge&logo=ionic&logoColor=3880FF)
+![Appian](https://img.shields.io/badge/Appian-111111?style=for-the-badge&logoColor=white)
 
 ---
 
